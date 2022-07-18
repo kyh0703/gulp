@@ -1,0 +1,17 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "author": "Kyh0703",
+  "license": "MIT",
+  "description": "Learn Gulp by building",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/register": "^7.18.6"
+  }
+}
